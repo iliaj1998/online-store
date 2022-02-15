@@ -1,0 +1,418 @@
+body {
+    margin: 0;
+    padding: 0;
+   }
+   
+   #background 
+  { 
+       left: 0px; 
+       top: 0px; 
+       position: relative; 
+       margin-left: auto; 
+       margin-right: auto; 
+       width: 1920px;
+       height: 3361px; 
+       overflow: hidden;
+       z-index:0;
+      } 
+  
+   #Background 
+  { 
+       left: 0px; 
+       top: 0px; 
+       position: absolute; 
+       width: 1920px;
+       height: 3361px;
+       z-index:1;
+  } 
+  
+   #line2 
+  { 
+       left: 72px; 
+       top: 1847px; 
+       position: absolute; 
+       width: 1747px;
+       height: 5px;
+       z-index:2;
+  } 
+  
+   #line1 
+  { 
+       left: 72px; 
+       top: 1451px; 
+       position: absolute; 
+       width: 1747px;
+       height: 4px;
+       z-index:3;
+  } 
+  
+   #bg 
+  { 
+       left: 980px; 
+       top: 1703px; 
+       position: absolute; 
+       width: 47px;
+       height: 48px;
+       z-index:4;
+  } 
+  
+   #001instagram 
+  { 
+       left: 995px; 
+       top: 1719px; 
+       position: absolute; 
+       width: 17px;
+       height: 17px;
+       z-index:5;
+  } 
+  
+   #bg_0 
+  { 
+       left: 925px; 
+       top: 1703px; 
+       position: absolute; 
+       width: 47px;
+       height: 48px;
+       z-index:6;
+  } 
+  
+   #002twitter 
+  { 
+       left: 941px; 
+       top: 1719px; 
+       position: absolute; 
+       width: 18px;
+       height: 15px;
+       z-index:7;
+  } 
+  
+   #bg_1 
+  { 
+       left: 871px; 
+       top: 1703px; 
+       position: absolute; 
+       width: 47px;
+       height: 48px;
+       z-index:8;
+  } 
+  
+   #003facebooklogo 
+  { 
+       left: 890px; 
+       top: 1718px; 
+       position: absolute; 
+       width: 10px;
+       height: 19px;
+       z-index:9;
+  } 
+  
+   #line 
+  { 
+       left: 562px; 
+       top: 1673px; 
+       position: absolute; 
+       width: 774px;
+       height: 3px;
+       z-index:10;
+  } 
+  
+   #001rightarrow 
+  { 
+       left: 1318px; 
+       top: 1653px; 
+       position: absolute; 
+       width: 16px;
+       height: 11px;
+       z-index:11;
+  } 
+  
+   #Emailaddress 
+  { 
+       left: 565px; 
+       top: 1651px; 
+       position: absolute; 
+       width: 96px;
+       height: 14px;
+       z-index:12;
+  } 
+  
+   #Signuptoreceiveinfor 
+  { 
+       left: 752px; 
+       top: 1610px; 
+       position: absolute; 
+       width: 394px;
+       height: 20px;
+       z-index:13;
+  } 
+  
+   #Newletters 
+  { 
+       left: 853px; 
+       top: 1544px; 
+       position: absolute; 
+       width: 192px;
+       height: 37px;
+       z-index:14;
+  } 
+  
+   #bg_2 
+  { 
+       left: 1417px; 
+       top: 991px; 
+       position: absolute; 
+       width: 417px;
+       height: 418px;
+       z-index:15;
+  } 
+  
+   #Rectangle3 
+  { 
+       left: 1548px; 
+       top: 1332px; 
+       position: absolute; 
+       width: 156px;
+       height: 47px;
+       z-index:16;
+  } 
+  
+   #MenCollection 
+  { 
+       left: 1569px; 
+       top: 1346px; 
+       position: absolute; 
+       width: 114px;
+       height: 16px;
+       z-index:17;
+  } 
+  
+   #bg_3 
+  { 
+       left: 974px; 
+       top: 991px; 
+       position: absolute; 
+       width: 416px;
+       height: 418px;
+       z-index:18;
+  } 
+  
+   #Rectangle3_0 
+  { 
+       left: 1091px; 
+       top: 1332px; 
+       position: absolute; 
+       width: 183px;
+       height: 47px;
+       z-index:19;
+  } 
+  
+   #WomenCollection 
+  { 
+       left: 1112px; 
+       top: 1346px; 
+       position: absolute; 
+       width: 140px;
+       height: 16px;
+       z-index:20;
+  } 
+  
+   #bg_4 
+  { 
+       left: 86px; 
+       top: 991px; 
+       position: absolute; 
+       width: 860px;
+       height: 418px;
+       z-index:21;
+  } 
+  
+   #Rectangle4 
+  { 
+       left: 624px; 
+       top: 1306px; 
+       position: absolute; 
+       width: 233px;
+       height: 73px;
+       z-index:22;
+  } 
+  
+   #NewArrivals 
+  { 
+       left: 656px; 
+       top: 1328px; 
+       position: absolute; 
+       width: 170px;
+       height: 26px;
+       z-index:23;
+  } 
+  
+   #Bg 
+  { 
+       left: -1px; 
+       top: 103px; 
+       position: absolute; 
+       width: 1922px;
+       height: 861px;
+       z-index:24;
+  } 
+  
+   #Bg_0 
+  { 
+       left: 892px; 
+       top: 627px; 
+       position: absolute; 
+       width: 145px;
+       height: 59px;
+       z-index:25;
+  } 
+  
+   #Shopnow 
+  { 
+       left: 923px; 
+       top: 647px; 
+       position: absolute; 
+       width: 83px;
+       height: 20px;
+       z-index:26;
+  } 
+  
+   #Discovernowlatestcol 
+  { 
+       left: 809px; 
+       top: 558px; 
+       position: absolute; 
+       width: 313px;
+       height: 20px;
+       z-index:27;
+  } 
+  
+   #EnjoyThisWinterTrend 
+  { 
+       left: 759px; 
+       top: 383px; 
+       position: absolute; 
+       width: 412px;
+       height: 148px;
+       z-index:28;
+  } 
+  
+   #Bg_1 
+  { 
+       left: -1px; 
+       top: 34px; 
+       position: absolute; 
+       width: 1922px;
+       height: 72px;
+       z-index:29;
+  } 
+  
+   #Rectangle6 
+  { 
+       left: 84px; 
+       top: 57px; 
+       position: absolute; 
+       width: 83px;
+       height: 26px;
+       z-index:30;
+  } 
+  
+   #logo 
+  { 
+       left: 104px; 
+       top: 64px; 
+       position: absolute; 
+       width: 43px;
+       height: 13px;
+       z-index:31;
+  } 
+  
+   #Blogs 
+  { 
+       left: 1268px; 
+       top: 62px; 
+       position: absolute; 
+       width: 39px;
+       height: 17px;
+       z-index:32;
+  } 
+  
+   #Contact 
+  { 
+       left: 1165px; 
+       top: 63px; 
+       position: absolute; 
+       width: 54px;
+       height: 13px;
+       z-index:33;
+  } 
+  
+   #Pages 
+  { 
+       left: 1075px; 
+       top: 63px; 
+       position: absolute; 
+       width: 41px;
+       height: 16px;
+       z-index:34;
+  } 
+  
+   #Women 
+  { 
+       left: 783px; 
+       top: 63px; 
+       position: absolute; 
+       width: 54px;
+       height: 13px;
+       z-index:35;
+  } 
+  
+   #Shop 
+  { 
+       left: 887px; 
+       top: 62px; 
+       position: absolute; 
+       width: 36px;
+       height: 17px;
+       z-index:36;
+  } 
+  
+   #Product 
+  { 
+       left: 972px; 
+       top: 62px; 
+       position: absolute; 
+       width: 54px;
+       height: 14px;
+       z-index:37;
+  } 
+  
+   #Men 
+  { 
+       left: 704px; 
+       top: 63px; 
+       position: absolute; 
+       width: 30px;
+       height: 13px;
+       z-index:38;
+  } 
+  
+   #Linehover 
+  { 
+       left: 613px; 
+       top: 79px; 
+       position: absolute; 
+       width: 42px;
+       height: 4px;
+       z-index:39;
+  } 
+  
+   #Home 
+  { 
+       left: 613px; 
+       top: 63px; 
+       position: absolute; 
+       width: 42px;
+       height: 13px;
+       z-index:40;
+  } 
+  
