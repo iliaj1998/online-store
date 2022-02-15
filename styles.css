@@ -10,8 +10,9 @@ body {
        position: relative; 
        margin-left: auto; 
        margin-right: auto; 
-       width: 1920px;
-       height: 3361px; 
+       width:100%;
+       min-width:1000px;
+       height:auto;
        overflow: hidden;
        z-index:0;
       } 
@@ -76,6 +77,7 @@ body {
        z-index:6;
   } 
   
+  
    #002twitter 
   { 
        left: 941px; 
@@ -90,7 +92,8 @@ body {
   { 
        left: 871px; 
        top: 1703px; 
-       position: absolute; 
+       position: fixed; 
+       content: margin-top: 100px; 
        width: 47px;
        height: 48px;
        z-index:8;
@@ -300,7 +303,8 @@ body {
   { 
        left: -1px; 
        top: 34px; 
-       position: absolute; 
+       position: fixed; 
+       content: margin-top: 100px; 
        width: 1922px;
        height: 72px;
        z-index:29;
@@ -310,7 +314,8 @@ body {
   { 
        left: 84px; 
        top: 57px; 
-       position: absolute; 
+       position: fixed; 
+       content: margin-top: 100px; 
        width: 83px;
        height: 26px;
        z-index:30;
@@ -320,7 +325,8 @@ body {
   { 
        left: 104px; 
        top: 64px; 
-       position: absolute; 
+       position: fixed; 
+       content: margin-top: 100px;
        width: 43px;
        height: 13px;
        z-index:31;
@@ -330,7 +336,8 @@ body {
   { 
        left: 1268px; 
        top: 62px; 
-       position: absolute; 
+       position: fixed; 
+       content: margin-top: 100px;
        width: 39px;
        height: 17px;
        z-index:32;
@@ -340,7 +347,8 @@ body {
   { 
        left: 1165px; 
        top: 63px; 
-       position: absolute; 
+       position: fixed; 
+       content: margin-top: 100px;; 
        width: 54px;
        height: 13px;
        z-index:33;
@@ -350,7 +358,8 @@ body {
   { 
        left: 1075px; 
        top: 63px; 
-       position: absolute; 
+       position: fixed; 
+       content: margin-top: 100px; 
        width: 41px;
        height: 16px;
        z-index:34;
@@ -360,7 +369,8 @@ body {
   { 
        left: 783px; 
        top: 63px; 
-       position: absolute; 
+       position: fixed; 
+       content: margin-top: 100px; 
        width: 54px;
        height: 13px;
        z-index:35;
@@ -370,7 +380,8 @@ body {
   { 
        left: 887px; 
        top: 62px; 
-       position: absolute; 
+       position: fixed; 
+       content: margin-top: 100px;
        width: 36px;
        height: 17px;
        z-index:36;
@@ -380,7 +391,8 @@ body {
   { 
        left: 972px; 
        top: 62px; 
-       position: absolute; 
+       position: fixed; 
+       content: margin-top: 100px;
        width: 54px;
        height: 14px;
        z-index:37;
@@ -390,7 +402,8 @@ body {
   { 
        left: 704px; 
        top: 63px; 
-       position: absolute; 
+       position: fixed; 
+       content: margin-top: 100px; 
        width: 30px;
        height: 13px;
        z-index:38;
@@ -400,7 +413,8 @@ body {
   { 
        left: 613px; 
        top: 79px; 
-       position: absolute; 
+       position: fixed; 
+       content: margin-top: 100px;
        width: 42px;
        height: 4px;
        z-index:39;
@@ -410,7 +424,8 @@ body {
   { 
        left: 613px; 
        top: 63px; 
-       position: absolute; 
+       position: fixed; 
+       content: margin-top: 100px; 
        width: 42px;
        height: 13px;
        z-index:40;
